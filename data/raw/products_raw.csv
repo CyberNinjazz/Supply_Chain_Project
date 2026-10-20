@@ -1,0 +1,9 @@
+product_id,product_name,unit_price,stock_on_hand
+1,Widget A,25,120
+2,Widget B,45,80
+3,Cable Kit,15,200
+4,Sensor,85,50
+5,Valve,65,70
+6,Pump,150,35
+7,Filter,30,100
+8,Connector,12,300
