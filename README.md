@@ -34,6 +34,8 @@ The project begins with four raw datasets and produces five cleaned datasets, in
 
 ## Dashboard Results
 
+![Supply Chain Power BI Dashboard](powerbi/dashboard.png)
+
 The completed Power BI dashboard includes:
 
 - **Total Orders:** 149
